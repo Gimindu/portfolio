@@ -389,11 +389,7 @@ a[target] {
     margin: 2rem 0 3rem;
 }
 
-/* Validity pseudo class */
-.about-content p::first-line {
-    font-size: 2.4rem;
-    font-variant: inherit;
-  }
+
 
 @media screen and (max-width:768px) {
     .about{
