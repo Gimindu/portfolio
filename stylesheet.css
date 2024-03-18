@@ -282,6 +282,9 @@ a[target] {
   .home {
     flex-direction: column-reverse;
   }
+  .hide-on-phone {
+    display: none;
+  }
 
   .home-content {
     margin-left: 25%;
