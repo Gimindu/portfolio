@@ -440,6 +440,12 @@ a[target] {
   color: var(--text-color);
 }
 
+.blog-box a{
+  color: #fff;
+text-decoration: none;
+
+}
+
 @media screen and (min-width: 768px) {
   .blog-container .blog-box {
     height: 350px;
