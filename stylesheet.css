@@ -461,6 +461,7 @@ a[target] {
 
 .latest h2 {
   margin-bottom: 5rem;
+  
 }
 .latest-container {
   display: grid;
@@ -510,11 +511,13 @@ a[target] {
 
 .latest-layer h4 {
   font-size: 3rem;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
 .latest-layer p {
   font-size: 1.6rem;
   margin: 0.3rem 0 1rem;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
 .latest-layer a {
